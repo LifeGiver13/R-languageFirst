@@ -1,0 +1,30 @@
+[
+  {
+    "parametre": "ph",
+    "valeur_min": 6.5,
+    "valeur_max": 8.5,
+    "unite": "",
+    "description": "Plage de pH acceptable pour l'eau potable"
+  },
+  {
+    "parametre": "conductivite",
+    "valeur_min": null,
+    "valeur_max": 1500,
+    "unite": "µS/cm",
+    "description": "Conductivité électrique"
+  },
+  {
+    "parametre": "turbidite",
+    "valeur_min": null,
+    "valeur_max": 5,
+    "unite": "NTU",
+    "description": "Turbidité maximale"
+  },
+  {
+    "parametre": "nitrates",
+    "valeur_min": null,
+    "valeur_max": 50,
+    "unite": "mg/L",
+    "description": "Concentration maximale en nitrates"
+  }
+]
